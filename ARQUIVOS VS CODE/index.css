@@ -1,0 +1,152 @@
+*{
+    font-family: Montserrat;
+    padding-left:0.5rem ;
+    padding-right:0.5rem ;
+}
+
+
+
+
+
+nav{
+    
+    word-spacing: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 10rem;
+    
+    
+    
+}
+
+
+
+.items-nav:hover {
+  color: #00eeff;
+}
+
+
+a{
+
+    text-decoration: none;
+    color: #000000;
+    
+}
+
+li{
+    list-style: none;
+    display:inline-block;
+    
+    
+    
+}
+
+p{
+    line-height: 2rem;
+}
+
+h1{
+    margin-block: 1.5rem;
+    margin-left: 2.5rem;
+    font-weight: 900;
+    font-size: 60px;
+}
+
+
+.pessoa{
+    float:right ;
+}
+
+/* CSS */
+.bt-work{
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.85);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+}
+
+.bt-work:hover,
+.bt-work:focus {
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.bt-work:hover {
+  transform: translateY(-1px);
+}
+
+.bt-work:active {
+  background-color: #F0F0F1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
+
+
+
+
+
+.navigation{
+    
+    font-size: large;
+    font-weight: 400;
+    margin-bottom: 2rem;
+   
+}
+
+.TEXTWORK{
+    text-align: center;
+    margin: 8rem;
+}
+
+
+
+
+
+#titulo1{
+ margin-left: 2.5rem;
+ font-size: medium;
+}
+
+.boasvindas{
+    margin-top: 2rem;
+    margin-left: 2.4rem;
+   
+}
+
+#logo{
+    margin-bottom: 2rem;
+    margin-left: 1.3rem;
+    margin-right: 62rem;
+    font-weight: 800;
+}
+
+
+#saudacao{
+    font-weight: 700;
+    margin-left:-0.7rem;
+}
+
